@@ -73,14 +73,16 @@ Luego de leer esta breve introducción, debes contestar esta guía:
 
 1. ¿Cuál es tu nombre?
 
-R:
+R: Felipe Vicencio
 
 2. ¿Cuál es la diferencia entre R y RStudio?
 
 
-R:
+R: R es el lenguaje (herramienta de "ambiente") , mientras que R Studio es la interfaz en la cual trabajar.
 
 3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
+
+R: con PUSH ORIGIN
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
 
